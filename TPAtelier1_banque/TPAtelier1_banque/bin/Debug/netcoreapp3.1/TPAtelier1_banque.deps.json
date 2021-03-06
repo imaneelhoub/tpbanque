@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TPAtelier1_banque/1.0.0": {
+        "runtime": {
+          "TPAtelier1_banque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPAtelier1_banque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

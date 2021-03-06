@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\bin\Debug\netcoreapp3.1\TPAtelier1_banque.exe
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\bin\Debug\netcoreapp3.1\TPAtelier1_banque.deps.json
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\bin\Debug\netcoreapp3.1\TPAtelier1_banque.runtimeconfig.json
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\bin\Debug\netcoreapp3.1\TPAtelier1_banque.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\bin\Debug\netcoreapp3.1\TPAtelier1_banque.dll
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\bin\Debug\netcoreapp3.1\TPAtelier1_banque.pdb
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\obj\Debug\netcoreapp3.1\TPAtelier1_banque.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\obj\Debug\netcoreapp3.1\TPAtelier1_banque.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\obj\Debug\netcoreapp3.1\TPAtelier1_banque.AssemblyInfo.cs
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\obj\Debug\netcoreapp3.1\TPAtelier1_banque.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\obj\Debug\netcoreapp3.1\TPAtelier1_banque.dll
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\obj\Debug\netcoreapp3.1\TPAtelier1_banque.pdb
+C:\Users\DELL\Desktop\visual studio\3eme annee\compte_banque\TPAtelier1_banque\TPAtelier1_banque\obj\Debug\netcoreapp3.1\TPAtelier1_banque.genruntimeconfig.cache
